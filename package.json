@@ -1,0 +1,6 @@
+{
+  "name": "vidlr",
+  "dependencies": {
+    "redis": "^0.12.1"
+  }
+}
